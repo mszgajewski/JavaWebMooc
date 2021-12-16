@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/osa05-Osa05_01.HelloSession/osa05/Osa05_01.HelloSession/Osa05_01.HelloSession.iml" filepath="$PROJECT_DIR$/osa05-Osa05_01.HelloSession/osa05/Osa05_01.HelloSession/Osa05_01.HelloSession.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa05-Osa05_02.ReloadHeroes/osa05/Osa05_02.ReloadHeroes/Osa05_02.ReloadHeroes.iml" filepath="$PROJECT_DIR$/osa05-Osa05_02.ReloadHeroes/osa05/Osa05_02.ReloadHeroes/Osa05_02.ReloadHeroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa05-Osa05_03.EuroShopper/osa05/Osa05_03.EuroShopper/Osa05_03.EuroShopper.iml" filepath="$PROJECT_DIR$/osa05-Osa05_03.EuroShopper/osa05/Osa05_03.EuroShopper/Osa05_03.EuroShopper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa05-Osa05_04.HelloAuthentication/osa05/Osa05_04.HelloAuthentication/Osa05_04.HelloAuthentication.iml" filepath="$PROJECT_DIR$/osa05-Osa05_04.HelloAuthentication/osa05/Osa05_04.HelloAuthentication/Osa05_04.HelloAuthentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa05-Osa05_05.HelloDbAuthentication/osa05/Osa05_05.HelloDbAuthentication/Osa05_05.HelloDbAuthentication.iml" filepath="$PROJECT_DIR$/osa05-Osa05_05.HelloDbAuthentication/osa05/Osa05_05.HelloDbAuthentication/Osa05_05.HelloDbAuthentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa05-Osa05_06.Reservations/osa05/Osa05_06.Reservations/Osa05_06.Reservations.iml" filepath="$PROJECT_DIR$/osa05-Osa05_06.Reservations/osa05/Osa05_06.Reservations/Osa05_06.Reservations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa05-Osa05_07.OnlyForTheSelected/osa05/Osa05_07.OnlyForTheSelected/Osa05_07.OnlyForTheSelected.iml" filepath="$PROJECT_DIR$/osa05-Osa05_07.OnlyForTheSelected/osa05/Osa05_07.OnlyForTheSelected/Osa05_07.OnlyForTheSelected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa05-Osa05_08.HiddenFields/osa05/Osa05_08.HiddenFields/Osa05_08.HiddenFields.iml" filepath="$PROJECT_DIR$/osa05-Osa05_08.HiddenFields/osa05/Osa05_08.HiddenFields/Osa05_08.HiddenFields.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa06-Osa06_01.HelloFragments/osa06/Osa06_01.HelloFragments/Osa06_01.HelloFragments.iml" filepath="$PROJECT_DIR$/osa06-Osa06_01.HelloFragments/osa06/Osa06_01.HelloFragments/Osa06_01.HelloFragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa06-Osa06_02.Playlists/osa06/Osa06_02.Playlists/Osa06_02.Playlists.iml" filepath="$PROJECT_DIR$/osa06-Osa06_02.Playlists/osa06/Osa06_02.Playlists/Osa06_02.Playlists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa06-Osa06_03.Layout/osa06/Osa06_03.Layout/Osa06_03.Layout.iml" filepath="$PROJECT_DIR$/osa06-Osa06_03.Layout/osa06/Osa06_03.Layout/Osa06_03.Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa06-Osa06_05.Links/osa06/Osa06_05.Links/Osa06_05.Links.iml" filepath="$PROJECT_DIR$/osa06-Osa06_05.Links/osa06/Osa06_05.Links/Osa06_05.Links.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa06-Osa06_07.ScoreService/osa06/Osa06_07.ScoreService/Osa06_07.ScoreService.iml" filepath="$PROJECT_DIR$/osa06-Osa06_07.ScoreService/osa06/Osa06_07.ScoreService/Osa06_07.ScoreService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa07-Osa07_01.Calculator/osa07/Osa07_01.Calculator/Osa07_01.Calculator.iml" filepath="$PROJECT_DIR$/osa07-Osa07_01.Calculator/osa07/Osa07_01.Calculator/Osa07_01.Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa07-Osa07_02.Books/osa07/Osa07_02.Books/Osa07_02.Books.iml" filepath="$PROJECT_DIR$/osa07-Osa07_02.Books/osa07/Osa07_02.Books/Osa07_02.Books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa07-Osa07_03.Tasks/osa07/Osa07_03.Tasks/Osa07_03.Tasks.iml" filepath="$PROJECT_DIR$/osa07-Osa07_03.Tasks/osa07/Osa07_03.Tasks/Osa07_03.Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa07-Osa07_04.WeatherService/osa07/Osa07_04.WeatherService/Osa07_04.WeatherService.iml" filepath="$PROJECT_DIR$/osa07-Osa07_04.WeatherService/osa07/Osa07_04.WeatherService/Osa07_04.WeatherService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa07-Osa07_05.Calculations/osa07/Osa07_05.Calculations/Osa07_05.Calculations.iml" filepath="$PROJECT_DIR$/osa07-Osa07_05.Calculations/osa07/Osa07_05.Calculations/Osa07_05.Calculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osa07-Osa07_06.ReactiveWebService/osa07/Osa07_06.ReactiveWebService/Osa07_06.ReactiveWebService.iml" filepath="$PROJECT_DIR$/osa07-Osa07_06.ReactiveWebService/osa07/Osa07_06.ReactiveWebService/Osa07_06.ReactiveWebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mooc.iml" filepath="$PROJECT_DIR$/.idea/mooc.iml" />
+    </modules>
+  </component>
+</project>

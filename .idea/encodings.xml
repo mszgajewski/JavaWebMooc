@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/osa05-Osa05_01.HelloSession/osa05/Osa05_01.HelloSession/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa05-Osa05_02.ReloadHeroes/osa05/Osa05_02.ReloadHeroes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa05-Osa05_03.EuroShopper/osa05/Osa05_03.EuroShopper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa05-Osa05_04.HelloAuthentication/osa05/Osa05_04.HelloAuthentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa05-Osa05_05.HelloDbAuthentication/osa05/Osa05_05.HelloDbAuthentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa05-Osa05_06.Reservations/osa05/Osa05_06.Reservations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa05-Osa05_07.OnlyForTheSelected/osa05/Osa05_07.OnlyForTheSelected/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa05-Osa05_08.HiddenFields/osa05/Osa05_08.HiddenFields/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa06-Osa06_01.HelloFragments/osa06/Osa06_01.HelloFragments/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa06-Osa06_02.Playlists/osa06/Osa06_02.Playlists/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa06-Osa06_03.Layout/osa06/Osa06_03.Layout/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa06-Osa06_05.Links/osa06/Osa06_05.Links/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa06-Osa06_07.ScoreService/osa06/Osa06_07.ScoreService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa07-Osa07_01.Calculator/osa07/Osa07_01.Calculator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa07-Osa07_02.Books/osa07/Osa07_02.Books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa07-Osa07_03.Tasks/osa07/Osa07_03.Tasks/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa07-Osa07_04.WeatherService/osa07/Osa07_04.WeatherService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa07-Osa07_05.Calculations/osa07/Osa07_05.Calculations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osa07-Osa07_06.ReactiveWebService/osa07/Osa07_06.ReactiveWebService/src/main/java" charset="UTF-8" />
+  </component>
+</project>

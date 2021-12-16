@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Osa05_06.Reservations" />
+        <module name="Osa06_03.Layout" />
+        <module name="Osa05_08.HiddenFields" />
+        <module name="Osa05_01.HelloSession" />
+        <module name="Osa06_07.ScoreService" />
+        <module name="Osa05_05.HelloDbAuthentication" />
+        <module name="Osa06_05.Links" />
+        <module name="Osa07_01.Calculator" />
+        <module name="Osa07_03.Tasks" />
+        <module name="Osa06_01.HelloFragments" />
+        <module name="Osa07_02.Books" />
+        <module name="Osa07_06.ReactiveWebService" />
+        <module name="Osa05_04.HelloAuthentication" />
+        <module name="Osa05_03.EuroShopper" />
+        <module name="Osa05_02.ReloadHeroes" />
+        <module name="Osa06_02.Playlists" />
+        <module name="Osa07_04.WeatherService" />
+        <module name="Osa05_07.OnlyForTheSelected" />
+        <module name="Osa07_05.Calculations" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Osa05_01.HelloSession" target="1.8" />
+      <module name="Osa05_02.ReloadHeroes" target="1.8" />
+      <module name="Osa05_03.EuroShopper" target="1.8" />
+      <module name="Osa05_04.HelloAuthentication" target="1.8" />
+      <module name="Osa05_05.HelloDbAuthentication" target="1.8" />
+      <module name="Osa05_06.Reservations" target="1.8" />
+      <module name="Osa05_07.OnlyForTheSelected" target="1.8" />
+      <module name="Osa05_08.HiddenFields" target="1.8" />
+      <module name="Osa06_01.HelloFragments" target="1.8" />
+      <module name="Osa06_02.Playlists" target="1.8" />
+      <module name="Osa06_03.Layout" target="1.8" />
+      <module name="Osa06_05.Links" target="1.8" />
+      <module name="Osa06_07.ScoreService" target="1.8" />
+      <module name="Osa07_01.Calculator" target="1.8" />
+      <module name="Osa07_02.Books" target="1.8" />
+      <module name="Osa07_03.Tasks" target="1.8" />
+      <module name="Osa07_04.WeatherService" target="1.8" />
+      <module name="Osa07_05.Calculations" target="1.8" />
+      <module name="Osa07_06.ReactiveWebService" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Osa05_01.HelloSession" options="-parameters" />
+      <module name="Osa05_02.ReloadHeroes" options="-parameters" />
+      <module name="Osa05_03.EuroShopper" options="-parameters" />
+      <module name="Osa05_04.HelloAuthentication" options="-parameters" />
+      <module name="Osa05_05.HelloDbAuthentication" options="-parameters" />
+      <module name="Osa05_06.Reservations" options="-parameters" />
+      <module name="Osa05_07.OnlyForTheSelected" options="-parameters" />
+      <module name="Osa05_08.HiddenFields" options="-parameters" />
+      <module name="Osa06_01.HelloFragments" options="-parameters" />
+      <module name="Osa06_02.Playlists" options="-parameters" />
+      <module name="Osa06_03.Layout" options="-parameters" />
+      <module name="Osa06_05.Links" options="-parameters" />
+      <module name="Osa06_07.ScoreService" options="-parameters" />
+      <module name="Osa07_01.Calculator" options="-parameters" />
+      <module name="Osa07_02.Books" options="-parameters" />
+      <module name="Osa07_03.Tasks" options="-parameters" />
+      <module name="Osa07_04.WeatherService" options="-parameters" />
+      <module name="Osa07_05.Calculations" options="-parameters" />
+      <module name="Osa07_06.ReactiveWebService" options="-parameters" />
+    </option>
+  </component>
+</project>

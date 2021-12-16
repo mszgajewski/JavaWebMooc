@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/osa06-Osa06_05.Links/osa06/Osa06_05.Links/pom.xml" />
+        <option value="$PROJECT_DIR$/osa07-Osa07_02.Books/osa07/Osa07_02.Books/pom.xml" />
+        <option value="$PROJECT_DIR$/osa07-Osa07_03.Tasks/osa07/Osa07_03.Tasks/pom.xml" />
+        <option value="$PROJECT_DIR$/osa06-Osa06_03.Layout/osa06/Osa06_03.Layout/pom.xml" />
+        <option value="$PROJECT_DIR$/osa06-Osa06_02.Playlists/osa06/Osa06_02.Playlists/pom.xml" />
+        <option value="$PROJECT_DIR$/osa07-Osa07_01.Calculator/osa07/Osa07_01.Calculator/pom.xml" />
+        <option value="$PROJECT_DIR$/osa05-Osa05_03.EuroShopper/osa05/Osa05_03.EuroShopper/pom.xml" />
+        <option value="$PROJECT_DIR$/osa05-Osa05_01.HelloSession/osa05/Osa05_01.HelloSession/pom.xml" />
+        <option value="$PROJECT_DIR$/osa05-Osa05_02.ReloadHeroes/osa05/Osa05_02.ReloadHeroes/pom.xml" />
+        <option value="$PROJECT_DIR$/osa05-Osa05_06.Reservations/osa05/Osa05_06.Reservations/pom.xml" />
+        <option value="$PROJECT_DIR$/osa05-Osa05_08.HiddenFields/osa05/Osa05_08.HiddenFields/pom.xml" />
+        <option value="$PROJECT_DIR$/osa06-Osa06_07.ScoreService/osa06/Osa06_07.ScoreService/pom.xml" />
+        <option value="$PROJECT_DIR$/osa07-Osa07_05.Calculations/osa07/Osa07_05.Calculations/pom.xml" />
+        <option value="$PROJECT_DIR$/osa06-Osa06_01.HelloFragments/osa06/Osa06_01.HelloFragments/pom.xml" />
+        <option value="$PROJECT_DIR$/osa07-Osa07_04.WeatherService/osa07/Osa07_04.WeatherService/pom.xml" />
+        <option value="$PROJECT_DIR$/osa05-Osa05_07.OnlyForTheSelected/osa05/Osa05_07.OnlyForTheSelected/pom.xml" />
+        <option value="$PROJECT_DIR$/osa07-Osa07_06.ReactiveWebService/osa07/Osa07_06.ReactiveWebService/pom.xml" />
+        <option value="$PROJECT_DIR$/osa05-Osa05_04.HelloAuthentication/osa05/Osa05_04.HelloAuthentication/pom.xml" />
+        <option value="$PROJECT_DIR$/osa05-Osa05_05.HelloDbAuthentication/osa05/Osa05_05.HelloDbAuthentication/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="16" project-jdk-type="JavaSDK" />
+</project>

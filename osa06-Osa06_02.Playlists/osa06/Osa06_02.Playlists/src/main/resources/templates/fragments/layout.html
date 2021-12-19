@@ -9,19 +9,33 @@
             <nav>
                 <ul>
                     <li>
-                        <a th:href="@{/}">Main page</a>
+                        <a th:href="@{/}">Strona główna</a>
                     </li>
                     <li>
-                        <a th:href="@{/tracks}">Tracks</a>
+                        <a th:href="@{/tracks}">Piosenki</a>
                     </li>
                     <li>
-                        <a th:href="@{/playlists}">Playlists</a>
+                        <a th:href="@{/playlists}">Lista piosenek</a>
                     </li>
                 </ul>
             </nav>
         </header>
-
-
-
+        <div th: fragment ="tatble(tracks)">
+            <h2>Piosenki</h2>
+            <table>
+                <tr>
+                    <th>Zespół</th>
+                    <th>Tytuł</th>
+                    <th>Wydano</th>
+                    <th>Czas trwania</th>
+                </tr>
+                <tr th:each="track: ${tracks}">
+                    <td th:text="${track.band}"></td>
+                    <td th:text="${track.title}"></td>
+                    <td th:text="${#temporals.format(track.released, 'yyyy-MM-dd')}"></td>
+                    <td th:text="${track.durationInSeconds}"></td>
+                </tr>
+            </table>
+        </div>
     </body>
 </html>

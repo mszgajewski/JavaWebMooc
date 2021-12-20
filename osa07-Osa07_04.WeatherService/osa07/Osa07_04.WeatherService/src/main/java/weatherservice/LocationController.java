@@ -14,6 +14,9 @@ public class LocationController {
     @Autowired
     private LocationRepository locationRepository;
 
+    @Autowired
+    private LocationService locationService;
+
 
     @GetMapping("/locations")
     public String list(Model model) {
@@ -23,7 +26,7 @@ model.addAttribute("locations", locationRepository.findAll());
 
     @GetMapping("/locations/{id}")
     public String view(Model model, @PathVariable Long id) {
-model.addAttribute("location", locationRepository.getOne(id));
+        model.addAttribute("location", locationService.getLocation(id));
         return "location";
     }
 

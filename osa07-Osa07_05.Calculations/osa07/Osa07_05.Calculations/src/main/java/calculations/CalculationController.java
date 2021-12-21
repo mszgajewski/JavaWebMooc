@@ -34,11 +34,11 @@ public class CalculationController {
     public String create(RedirectAttributes redirectAttributes,
             @ModelAttribute Calculation calculation) {
 
-        calculation = calculationService.process(calculation);
+        calculation.setStatus("PROCESSING");
+        calculation = calculationRepository.save(calculation);
 
-        
-        // käytännössä sama kuin 
-        // return "redirect:/calculations/ + calculation.getId();
+        calculationService.process(calculation.getId());
+
         
         redirectAttributes.addAttribute("id", calculation.getId());
         return "redirect:/calculations/{id}";
